@@ -1,0 +1,2 @@
+# JxTreeFiltering
+Filtering for JxTreeTable
